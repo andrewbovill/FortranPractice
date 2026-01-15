@@ -6,7 +6,7 @@
       real,dimension(3,3)::matrixA,matrixB,matrixC
 !
 !     Fill matrixA and matrixB with random numbers.      
-!
+!     hello
       call random_number(matrixA)
       call random_number(matrixB)
       write(*,*)' Matrix A:'
